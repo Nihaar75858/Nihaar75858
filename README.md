@@ -4,8 +4,9 @@
 ---
 
 ### 🚀 About Me
-I'm a Computer Engineering graduate passionate about building scalable applications and solving real-world problems.  
-I enjoy working across the stack — from designing REST APIs to crafting meaningful UI — with a growing interest in backend architecture, cloud, and AI-driven systems.
+Computer Engineering graduate passionate about building scalable applications and solving real-world problems.  
+Enjoy working across the stack — from designing REST APIs to crafting meaningful UI. <br />
+Interest in backend architecture, cloud, and AI-driven systems.
 
 - Currently learning **Go**, **PostgreSQL**, and **Backend Architecture**
 - Building full-stack projects using **React**, **Node**, **Django**, and **Docker**
